@@ -1,12 +1,12 @@
 ![xrpi](images/xrpi.png)
 
-Megatrends shaping the future of travel:
+First, consider the [megatrends](http://skift.com/2015/01/13/new-skift-magazine-megatrends-defining-travel-in-2015/) shaping the future of travel:
 
 * mobile
 * seamless
 * experiential
 
----
+Now ...
 
 Think **experiential travel**.
 
