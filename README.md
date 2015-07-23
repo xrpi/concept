@@ -1,4 +1,4 @@
-# xrpi?
+![xrpi](images/xrpi.png)
 
 Megatrends shaping the future of travel:
 
@@ -35,10 +35,8 @@ The terms that follow should be understood as such: ad hoc coinages, functioning
 
 **TREX** is ...
 
+---
+
 ![xrpi collective](images/xrpi-collective.png)
 
 The **Xrpi Collective** is ...
-
-![xrpi](images/xrpi.png)
-
-Finally, **xrpi** is ...
