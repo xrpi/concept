@@ -1,12 +1,14 @@
 # Conceptual Walkthrough
 
-![everest](images/intro/1-everest.tiff)
+![everest](images/intro/1-everest.png)
 
 ![routes](images/intro/2-routes.png)
 
 ![routes](images/intro/3-routes.png)
 
 ![birdseye](images/intro/4-birdseye.png)
+
+![route](images/intro/5-japan.png)
 
 
 ## Schematic
