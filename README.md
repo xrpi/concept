@@ -9,12 +9,12 @@ The terms that follows should be understood as such: ad hoc coinages, functionin
 
 ---
 
-[!xrpi](images/xrpi.png)
+![xrpi](images/xrpi.png)
 
 ---
 
-[!xrpi collective](images/xrpi-collective.png)
+![xrpi collective](images/xrpi-collective.png)
 
 ---
 
-[!trex](images/trex.png)
+![trex](images/trex.png)
