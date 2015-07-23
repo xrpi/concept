@@ -6,9 +6,9 @@
 
 ![routes](images/intro/3-routes.png)
 
-![birdseye](images/intro/4-birdseye.png)
-
 ![route](images/intro/5-japan.png)
+
+![birdseye](images/intro/4-birdseye.png)
 
 
 ## Schematic
