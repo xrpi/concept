@@ -18,7 +18,7 @@ Think **sherpa**.
 
 Think **siri**.
 
-So ... **xrpi** (pronounced "sherp-ee"): a project that aims to enable a new form of peer-to-peer urban orienteering and bespoke trekking.
+So ... **xrpi** (pronounced *sherp-ee*): a project that aims to enable a new form of peer-to-peer urban orienteering and bespoke trekking.
 
 ![urban orienteering](images/key-text.png)
 
