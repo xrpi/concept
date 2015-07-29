@@ -6,7 +6,7 @@ First, consider the [megatrends](http://skift.com/2015/01/13/new-skift-magazine-
 * seamless
 * experiential
 
-As I read it, a new mode of travel is emerging, with different objectives and expectations.
+As I read it, [a new mode of travel](https://github.com/wx-labs/concept/blob/master/resources.md#the-future-of-travel) is emerging, with different objectives and expectations.
 
 This presents new design opportunities.  With this in mind, we're embarking on a new venture:
 
