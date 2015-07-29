@@ -1,11 +1,16 @@
 # Resources
 
+* [Pinboard](https://www.pinterest.com/joyrexus/weathercraft/)
+
 
 ## Inspiration
 
-* [Pinboard](https://www.pinterest.com/joyrexus/weathercraft/)
+* [Paper](http://www.fiftythree.com/) by [Fiftythree](http://making.fiftythree.com/)
 
-* [Paper](http://www.fiftythree.com/) by [Fiftythree](http://making.fiftythree.com/).
+* [Detour](https://www.detour.com/) - location aware audio-tours
+
+* [Handmaps](http://handmaps.org/) - user submitted maps and other interesting
+  diagrams created by hand
 
 
 ## The Future of Travel
