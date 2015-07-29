@@ -1,11 +1,24 @@
 # Resources
 
 
+## Inspiration
+
+* [Pinboard](https://www.pinterest.com/joyrexus/weathercraft/)
+
+* [Paper](http://www.fiftythree.com/) by [Fiftythree](http://making.fiftythree.com/).
+
+
 ## The Future of Travel
+
+* [Megatrends](http://skift.com/2015/01/13/new-skift-magazine-megatrends-defining-travel-in-2015/) - mobile, seamless, experiential
+
+* [Experiential Travel](http://skift.com/2014/06/03/launching-free-skift-report-the-rise-of-experiential-travel/) 
+
+* [Slow Travel](http://www.theartofslowtravel.com/2011/03/what-is-slow-travel/)
 
 * [Airbnb Local Experiences](https://www.airbnb.com/experience/signup)
 
-* [Exploring Brooklyn by foot: the local list](http://blog.airbnb.com/exploring-brooklyn-by-foot-the-local-list) - overview of Airbnb sponsored neighborhood maps of Brooklyn with recommended routes/itineraries.  View the [local list](http://blog.airbnb.com/wp-content/uploads/2015/04/BrooklynLocalLens.pdf).  
+* [Exploring Brooklyn by foot](http://blog.airbnb.com/exploring-brooklyn-by-foot-the-local-list) - overview of Airbnb sponsored neighborhood maps of Brooklyn with recommended routes/itineraries.  View the [local list](http://blog.airbnb.com/wp-content/uploads/2015/04/BrooklynLocalLens.pdf).  
 
 * [Airbnb Local Lens](http://blog.airbnb.com/local-lens/) - a collection of
   exposés on various cities and neighborhoods from an insider's perspective
