@@ -12,7 +12,7 @@ First, consider the [megatrends](http://skift.com/2015/01/13/new-skift-magazine-
 
 ![trax](images/trax.png)
 
-![trex](images/trax.png)
+![trex](images/trex.png)
 
 ---
 
