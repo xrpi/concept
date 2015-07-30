@@ -1,16 +1,27 @@
 # Resources
 
+
+## Internal
+
 * [Pinboard](https://www.pinterest.com/joyrexus/weathercraft/)
+
+* [`weathercraft.slack.com`](https://weathercraft.slack.com)
 
 
 ## Inspiration
 
-* [Paper](http://www.fiftythree.com/) by [Fiftythree](http://making.fiftythree.com/)
-
 * [Detour](https://www.detour.com/) - location aware audio-tours
+
+* [Fieldtrip](https://www.fieldtripper.com/) - see [videos](https://www.youtube.com/user/FieldTripApp/videos)
+
+* [Route](http://graphics.stanford.edu/papers/routemaps/) and [Destination](http://johanneskopf.de/publications/destination_maps/index.html) maps
 
 * [Handmaps](http://handmaps.org/) - user submitted maps and other interesting
   diagrams created by hand
+
+* [Exploring Brooklyn by foot](http://blog.airbnb.com/exploring-brooklyn-by-foot-the-local-list) - overview of Airbnb sponsored neighborhood maps of Brooklyn with recommended routes/itineraries.  View the [local list](http://blog.airbnb.com/wp-content/uploads/2015/04/BrooklynLocalLens.pdf).  
+
+* [Paper](http://www.fiftythree.com/paper/) by [Fiftythree](http://www.fiftythree.com/about)
 
 
 ## The Future of Travel
@@ -22,8 +33,6 @@
 * [Slow Travel](http://www.theartofslowtravel.com/2011/03/what-is-slow-travel/)
 
 * [Airbnb Local Experiences](https://www.airbnb.com/experience/signup)
-
-* [Exploring Brooklyn by foot](http://blog.airbnb.com/exploring-brooklyn-by-foot-the-local-list) - overview of Airbnb sponsored neighborhood maps of Brooklyn with recommended routes/itineraries.  View the [local list](http://blog.airbnb.com/wp-content/uploads/2015/04/BrooklynLocalLens.pdf).  
 
 * [Airbnb Local Lens](http://blog.airbnb.com/local-lens/) - a collection of
   exposés on various cities and neighborhoods from an insider's perspective

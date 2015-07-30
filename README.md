@@ -24,7 +24,7 @@ Our initial toolset is targeted at Airbnb [superhosts](https://www.airbnb.com/su
 idiosyncratic view of home and neighborhood.  It's the napkin on which a host
 can sketch out a personalized map of their domain for guests.
 
-![house-sketch](images/house-sketch.png)
+![trax concept](images/trax-concept.png)
 
 ![trex](images/trex.png)
 
