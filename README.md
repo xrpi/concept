@@ -33,12 +33,10 @@ can sketch out a personalized map of their domain for guests.
 
 ![in situ](images/in-situ.png)
 
-So, we way that a host *lays* **trax** and a guest *undertakes* **trex** along
-these trax.
+So, we say that a host *lays* **trax** and a guest *makes* **trex** along
+these trax.  A host can lay a single **trak** for a guest to **trek**.
+**Trakking** is the laying of trax and **trekking** is the taking of trex.
 
-What's novel about **trax** is that they form a network of possible
-experiences. A guest undertaking a trek along their host's trax can access the
-trax of other hosts from that locality whenever accessible (i.e., when
-they intersect at some node point).  This enables guests unfamiliar with a given place access to a network of local micro expeditions from those who know that locality best.
+What's novel about trax is that they form a network of possible trex. A guest making a trek along their host's trax can access the trax of other hosts whenever accessible (i.e., when they intersect at some node point).
 
-
+Thus, guests have access to a network of local micro-expeditions from those who know that locality best.
