@@ -35,7 +35,7 @@ can sketch out a personalized map of their domain for guests.
 
 So, we say that a host *lays* **trax** and a guest *makes* **trex** along
 these trax.  A host can lay a single **trak** for a guest to **trek**.
-**Trakking** is the laying of trax and **trekking** is the taking of trex.
+**Trakking** is the laying of trax and **trekking** is the undertaking of trex.
 
 What's novel about trax is that they form a network of possible trex. A guest making a trek along their host's trax can access the trax of other hosts whenever accessible (i.e., when they intersect at some node point).
 

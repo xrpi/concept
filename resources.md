@@ -14,6 +14,12 @@
 
 * [Fieldtrip](https://www.fieldtripper.com/) - see [videos](https://www.youtube.com/user/FieldTripApp/videos)
 
+* [Daycation](https://hilaryshirk.carbonmade.com/projects/5351583) 
+
+* [Roadtrippers](https://www.mapbox.com/blog/roadtrippers-smart-directions/)
+
+* [Nat Geo City Guides](https://www.mapbox.com/blog/city-guides-qa/)
+
 * [Route](http://graphics.stanford.edu/papers/routemaps/) and [Destination](http://johanneskopf.de/publications/destination_maps/index.html) maps
 
 * [Handmaps](http://handmaps.org/) - user submitted maps and other interesting
@@ -42,18 +48,24 @@
 
 ## Context
 
+* [The world is not enough: Google and the future of augmented
+  reality](http://www.theatlantic.com/technology/archive/2012/10/the-world-is-not-enough-google-and-the-future-of-augmented-reality/264059/)
+  - What digital information do you want to see overlaid on the physical world?
+
 * [The interface layer: where design commoditizes tech](https://medium.com/bridge-collection/the-interface-layer-when-design-commoditizes-tech-e7017872173a) - Companies that successfully aggregate multiple services in a single interface have a chance of really shaking up industries.
 
 * [Come for the tool, stay for the network](http://cdixon.org/2015/01/31/come-for-the-tool-stay-for-the-network/) - a strategy for bootstrapping network effects
 
 
-## Current Status
+## Players
 
-* [Roadtrippers](https://www.mapbox.com/blog/roadtrippers-smart-directions/)
+* [Mapbox](https://www.mapbox.com/)
 
-* [Nat Geo City Guides](https://www.mapbox.com/blog/city-guides-qa/)
+* [Mapzen](https://mapzen.com/)
+
+* [OuterSpatial](http://www.outerspatial.com/)
 
 
-## Sketch Maps
+## Specs
 
-* [`handmaps.org`](http://handmaps.org/)
+* [OpenTrails](http://www.opentraildata.org/)
