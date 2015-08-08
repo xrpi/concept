@@ -69,3 +69,8 @@
 ## Specs
 
 * [OpenTrails](http://www.opentraildata.org/)
+
+
+## Techniques
+
+* [Snapping noisy GPS traces with map matching](https://www.mapbox.com/blog/map-matching-api/)
