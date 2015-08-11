@@ -97,6 +97,10 @@
 
 ## Techniques
 
+* [Automatic generation of destination maps](http://johanneskopf.de/publications/destination_maps/)
+
+* [Multi-perspective strip panoramas](http://research.microsoft.com/en-us/um/people/kopf/street_slide/) - of interest to us is their use of a contextual mini-map as navigational aid.
+
 * [Make a map with Tangram](https://github.com/tangrams/tangram-docs/blob/gh-pages/pages/walkthrough.md)
 
 * [Custom weighted-routing with OSRM](https://www.mapbox.com/blog/third-party-data-in-osrm/)
