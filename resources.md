@@ -76,7 +76,7 @@
 
 * [Image of the city](https://books.google.com/books?id=_phRPWsSpAgC) - essential reading. See [review](http://themobilecity.nl/2009/05/08/review-kevin-lynch-the-image-of-the-city/)
 
-* [Ambient commons: attention in the age of embodied information](https://books.google.com/books?id=vb0XAAAAQBAJ&dq=ambient+commons)
+* [Ambient commons: attention in the age of embodied information](https://books.google.com/books?id=vb0XAAAAQBAJ&dq=ambient+commons) - On the value of the built environment to attention practices.  A call to rethink attention itself, to care for more situated, often inescapable forms of information.
 
 
 ## Players
