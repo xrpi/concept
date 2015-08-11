@@ -49,6 +49,8 @@
 
 ## Context
 
+* [Maps that live and breathe with data](http://www.nytimes.com/2013/06/11/technology/mobile-companies-crave-maps-that-live-and-breathe.html)
+
 * [The world is not enough: Google and the future of augmented
   reality](http://www.theatlantic.com/technology/archive/2012/10/the-world-is-not-enough-google-and-the-future-of-augmented-reality/264059/)
   - What digital information do you want to see overlaid on the physical world?
