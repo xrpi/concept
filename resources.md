@@ -20,7 +20,8 @@
 
 * [Nat Geo City Guides](https://www.mapbox.com/blog/city-guides-qa/)
 
-* [Route](http://graphics.stanford.edu/papers/routemaps/) and [Destination](http://johanneskopf.de/publications/destination_maps/index.html) maps
+* [Route](http://graphics.stanford.edu/papers/routemaps/) and [destination](http://johanneskopf.de/publications/destination_maps/index.html) maps
+  * [overview](http://research.microsoft.com/en-us/news/features/destinationmaps-012510.aspx) of destination maps
 
 * [Handmaps](http://handmaps.org/) - user submitted maps and other interesting
   diagrams created by hand
