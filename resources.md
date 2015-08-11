@@ -74,9 +74,11 @@
 
 ## Books
 
-* [Image of the city](https://books.google.com/books?id=_phRPWsSpAgC) - essential reading. See [review](http://themobilecity.nl/2009/05/08/review-kevin-lynch-the-image-of-the-city/)
+* [Image of the city](https://books.google.com/books?id=_phRPWsSpAgC) - by Kevin Lynch. Essential reading. See [review](http://themobilecity.nl/2009/05/08/review-kevin-lynch-the-image-of-the-city/)
 
-* [Ambient commons: attention in the age of embodied information](https://books.google.com/books?id=vb0XAAAAQBAJ&dq=ambient+commons) - On the value of the built environment to attention practices.  A call to rethink attention itself, to care for more situated, often inescapable forms of information.
+* [Ambient commons: attention in the age of embodied information](https://books.google.com/books?id=vb0XAAAAQBAJ&dq=ambient+commons) - by Malcolm McCullogh. A call to rethink attention itself, to care for more situated, often inescapable forms of information.
+
+> McCullough asks us to become “stewards” of information. By embedding data with care and generating structures for participation, overload and distraction can be replaced with concentration and embodiment.
 
 
 ## Players
