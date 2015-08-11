@@ -57,6 +57,28 @@
 * [Come for the tool, stay for the network](http://cdixon.org/2015/01/31/come-for-the-tool-stay-for-the-network/) - a strategy for bootstrapping network effects
 
 
+## Conceptual Background
+
+* [wayfinding](https://en.wikipedia.org/wiki/Wayfinding)
+
+* [urban imageability](https://en.wikipedia.org/wiki/Kevin_A._Lynch#The_Image_of_the_City)
+  * [mental map](https://en.wikipedia.org/wiki/Mental_mapping)
+  * [cognitive map](https://en.wikipedia.org/wiki/Cognitive_map#Generating_the_cognitive_map)
+
+* [time geography](https://en.wikipedia.org/wiki/Time_geography)
+
+* [behavioral geography](https://en.wikipedia.org/wiki/Behavioral_geography)
+
+* [cognitive geography](https://en.wikipedia.org/wiki/Cognitive_geography)
+
+
+## Books
+
+* [Image of the city](https://books.google.com/books?id=_phRPWsSpAgC) - essential reading. See [review](http://themobilecity.nl/2009/05/08/review-kevin-lynch-the-image-of-the-city/)
+
+* [Ambient commons: attention in the age of embodied information](https://books.google.com/books?id=vb0XAAAAQBAJ&dq=ambient+commons)
+
+
 ## Players
 
 * [Mapbox](https://www.mapbox.com/)
@@ -73,4 +95,33 @@
 
 ## Techniques
 
-* [Snapping noisy GPS traces with map matching](https://www.mapbox.com/blog/map-matching-api/)
+* [Make a map with Tangram](https://github.com/tangrams/tangram-docs/blob/gh-pages/pages/walkthrough.md)
+
+* [Custom weighted-routing with OSRM](https://www.mapbox.com/blog/third-party-data-in-osrm/)
+
+* [Snapping noisy GPS traces with map matching](https://www.mapbox.com/blog/map-matching-api/) - technique for smoothing route traces
+
+* [The state of vector tiles](https://2015.foss4g-na.org/session/state-vector-tiles)
+
+* [Cartographic design in GL maps](https://2015.foss4g-na.org/session/cartographic-design-gl-maps-beyond-zoom-levels-and-raster-tiles)
+
+* [Geodata processing with node](https://2015.foss4g-na.org/session/geodata-processing-nodejs)
+
+* [Building an editor for Mapbox GL](https://2015.foss4g-na.org/session/building-editor-mapbox-gl)
+
+* [Building iD with d3](http://www.macwright.org/presentations/gotham-2/#0) -
+  Tom MacWright's d3-based OSM editor
+
+* [Designing beautiful maps with d3](https://2015.foss4g-na.org/session/designing-beautiful-maps-d3js)
+
+
+## Local groups
+
+* [maptimeCHA](https://twitter.com/maptimeCHA)
+
+
+## Q & A
+
+* [GIS StackExchange](http://gis.stackexchange.com/)
+
+
