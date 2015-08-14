@@ -16,6 +16,8 @@
 
 * [Daycation](https://hilaryshirk.carbonmade.com/projects/5351583) 
 
+* [Alltrails Pro](https://alltrails.com/pro)
+
 * [Roadtrippers](https://www.mapbox.com/blog/roadtrippers-smart-directions/)
 
 * [Nat Geo City Guides](https://www.mapbox.com/blog/city-guides-qa/)
@@ -29,6 +31,10 @@
 * [Exploring Brooklyn by foot](http://blog.airbnb.com/exploring-brooklyn-by-foot-the-local-list) - overview of Airbnb sponsored neighborhood maps of Brooklyn with recommended routes/itineraries.  View the [local list](http://blog.airbnb.com/wp-content/uploads/2015/04/BrooklynLocalLens.pdf).  
 
 * [Paper](http://www.fiftythree.com/paper/) by [Fiftythree](http://www.fiftythree.com/about)
+
+* [Theodolite](http://hunter.pairsite.com/theodolite/) - multifunction
+  navigation app combining compass, GPS, map, photo/movie camera,
+  rangefinder, and two-axis inclinometer 
 
 
 ## The Future of Travel
@@ -45,6 +51,8 @@
   exposés on various cities and neighborhoods from an insider's perspective
 
 * [Question to ask your Airbnb host to get the most out of your trip](http://travelinspirations.yahoo.com/post/112838413541/questions-you-can-ask-your-airbnb-host-to-get-the) - note that this is Airbnb sponsored advice
+
+* [A guide to urban trekking](http://journal.alltrails.com/post/33381166963/how-to-take-a-great-city-hike)
 
 
 ## Context
@@ -123,6 +131,8 @@
 
 * [Designing beautiful maps with d3](https://2015.foss4g-na.org/session/designing-beautiful-maps-d3js)
 
+* [Backcountry trip planning guide](http://www.outdoorgearlab.com/a/11181/Backcountry-Trip-Planning) - see also the [hillmap site](http://blog.hillmap.com/p/hillmap.html) for additional techniques
+
 
 ## Local groups
 
@@ -133,4 +143,7 @@
 
 * [GIS StackExchange](http://gis.stackexchange.com/)
 
+* [What info is stored in EXIF/JPEF photos taken w/ an iPhone?](http://stackoverflow.com/questions/3930266/what-information-is-stored-in-efix-jpeg-photos-taken-on-the-iphone-with-geotaggi)
+
+* [How to calculate distance of object from camera using EXIF data?](http://stackoverflow.com/questions/22634518/how-to-get-distance-of-object-from-iphone-camera-using-image-exif-meta-data)
 
