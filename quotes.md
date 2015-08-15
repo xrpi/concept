@@ -4,6 +4,15 @@ Most large-scale databases of "place" continue to be designed for and in the ser
 
 ---
 
+I believe another body of research should look at how maps are inevitably
+cultural contstructs, not simply inert rational data banks, but active diagrams
+that extend a certain agency over how the world get's shaped. Artists and
+conceptualists are good at seeing maps in this way, not so much as
+informational devices, but as performance stages that can critically script
+certain spatial geographies in fresh ways. -- [James Corner](http://www.fieldoperations.net/about-us/people.html)
+
+---
+
 A brief public service announcement: If you've never read Kevin Lynch's "The
 Image of the City" go and do that now. We don't have time to talk about his
 ideas, here, but he was right then and he's still right now and it's **an

@@ -14,11 +14,15 @@
 
 * [Fieldtrip](https://www.fieldtripper.com/) - see [videos](https://www.youtube.com/user/FieldTripApp/videos)
 
+* [Thither](http://interactiondesign.sva.edu/people/project/thither) and
+  [Yonder](http://www.yonder.nyc/) - urban discovery app concepts 
+  described [here](http://www.thingswemake.com/thither-and-yonder/)
+
 * [Daycation](https://hilaryshirk.carbonmade.com/projects/5351583) 
 
-* [Alltrails Pro](https://alltrails.com/pro)
-
 * [Roadtrippers](https://www.mapbox.com/blog/roadtrippers-smart-directions/)
+
+* [Alltrails Pro](https://alltrails.com/pro)
 
 * [Nat Geo City Guides](https://www.mapbox.com/blog/city-guides-qa/)
 
@@ -28,13 +32,16 @@
 * [Handmaps](http://handmaps.org/) - user submitted maps and other interesting
   diagrams created by hand
 
+* [Paper](http://www.fiftythree.com/paper/) by [Fiftythree](http://www.fiftythree.com/about)
+
 * [Exploring Brooklyn by foot](http://blog.airbnb.com/exploring-brooklyn-by-foot-the-local-list) - overview of Airbnb sponsored neighborhood maps of Brooklyn with recommended routes/itineraries.  View the [local list](http://blog.airbnb.com/wp-content/uploads/2015/04/BrooklynLocalLens.pdf).  
 
-* [Paper](http://www.fiftythree.com/paper/) by [Fiftythree](http://www.fiftythree.com/about)
+* [The High Line](http://www.thehighline.org/visit)
 
 * [Theodolite](http://hunter.pairsite.com/theodolite/) - multifunction
   navigation app combining compass, GPS, map, photo/movie camera,
   rangefinder, and two-axis inclinometer 
+
 
 
 ## The Future of Travel
@@ -59,6 +66,8 @@
 
 * [Maps that live and breathe with data](http://www.nytimes.com/2013/06/11/technology/mobile-companies-crave-maps-that-live-and-breathe.html)
 
+* [The space between](https://medium.com/@saikofish/the-space-between-78ac42fea728) - How the visual language of our modern maps are destroying our sense of place
+
 * [The world is not enough: Google and the future of augmented
   reality](http://www.theatlantic.com/technology/archive/2012/10/the-world-is-not-enough-google-and-the-future-of-augmented-reality/264059/)
   - What digital information do you want to see overlaid on the physical world?
@@ -70,17 +79,28 @@
 
 ## Conceptual Background
 
-* [wayfinding](https://en.wikipedia.org/wiki/Wayfinding)
+* [flânerie](https://en.wikipedia.org/wiki/Fl%C3%A2neur)
+
+* [psychogeography](https://en.wikipedia.org/wiki/Psychogeography)
+
+* [landscape urbanism](https://en.wikipedia.org/wiki/Landscape_urbanism)
 
 * [urban imageability](https://en.wikipedia.org/wiki/Kevin_A._Lynch#The_Image_of_the_City)
   * [mental map](https://en.wikipedia.org/wiki/Mental_mapping)
   * [cognitive map](https://en.wikipedia.org/wiki/Cognitive_map#Generating_the_cognitive_map)
 
-* [time geography](https://en.wikipedia.org/wiki/Time_geography)
+* [cognitive geography](https://en.wikipedia.org/wiki/Cognitive_geography)
 
 * [behavioral geography](https://en.wikipedia.org/wiki/Behavioral_geography)
 
-* [cognitive geography](https://en.wikipedia.org/wiki/Cognitive_geography)
+* [time geography](https://en.wikipedia.org/wiki/Time_geography)
+
+* [wayfinding](https://en.wikipedia.org/wiki/Wayfinding)
+
+
+## Essays
+
+* [Thoreau on walking](https://www.readability.com/articles/x59mnggw)
 
 
 ## Books
