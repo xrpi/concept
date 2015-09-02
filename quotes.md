@@ -30,3 +30,7 @@ Even if all computerized route maps eventually learn to mimic the most useful as
 ---
 
 **The reduction of the spatially complex to simplicity though the application of topology is a wonderful concept.** I have a small device, limited by width and height which can show information in a simple linear manner. It uses the same data as a much larger device but is less concerned with detail beyond the central corridor of information. It relaxes the need for spatial accuracy and his highly portable. Scale and direction are also greatly relaxed and it delivers just what I need to know. -- [Alan MacEachren](http://creative-jar.com/insights/mobile/the-joy-of-stripping-understanding-mobile/)
+
+---
+
+We are not facing the decline of maps, but a shift from maps as repositories of geographic fact to maps as interpretive, argumentative, and unapologetically partial.  Cartographic authorship has changed dramatically as well, since scholarship, design, and craft are now increasingly mingled. -- [William Rankin](http://history.yale.edu/sites/default/files/files/2015%20rankin%20-%20redrawing%20the%20map.pdf)
