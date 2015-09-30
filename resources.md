@@ -128,6 +128,8 @@
 
 ## Techniques
 
+* [Scroll-driven navigation](https://www.mapbox.com/mapbox.js/example/v1.0.0/scroll-driven-navigation/) - see also Young Hahn's [example](https://www.mapbox.com/tutorial-sherlock/), [code](https://github.com/mapbox/tutorial-sherlock), and [article](http://alistapart.com/article/hack-your-maps) on this
+
 * [Automatic generation of destination maps](http://johanneskopf.de/publications/destination_maps/)
 
 * [Multi-perspective strip panoramas](http://research.microsoft.com/en-us/um/people/kopf/street_slide/) - of interest to us is their use of a contextual mini-map as navigational aid.
