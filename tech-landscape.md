@@ -5,6 +5,8 @@ A quick survey of photo mapping, route tracking, and travel planning apps.
 
 ## Photo mapping
 
+* [Wander](http://www.gowander.co/) - route tracking and photo journaling app
+
 * [Pinterest travel boards](http://venturebeat.com/2013/11/20/pinterest-place-pins/) - map overlay for travel pins. Pinterest provides [a feature story](http://creative.pinterest.com/features/place-pins/) on the thinking behind them and their making.
 
 
