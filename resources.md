@@ -52,6 +52,8 @@
 
 * [Slow Travel](http://www.theartofslowtravel.com/2011/03/what-is-slow-travel/)
 
+* [Solo Travel](http://tmagazine.blogs.nytimes.com/2013/05/09/yes-please-party-of-one/?_r=0)
+
 * [Airbnb Local Experiences](https://www.airbnb.com/experience/signup)
 
 * [Airbnb Local Lens](http://blog.airbnb.com/local-lens/) - a collection of
