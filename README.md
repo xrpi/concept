@@ -1,14 +1,13 @@
 ![wx](images/wx.png)
 
-First, consider the [megatrends](http://skift.com/2015/01/13/new-skift-magazine-megatrends-defining-travel-in-2015/) shaping the future of travel:
+Consider the [megatrends](http://skift.com/2015/01/13/new-skift-magazine-megatrends-defining-travel-in-2015/) shaping the future of travel:
 
 * mobile
 * seamless
 * experiential
 
-As I read it, [a new mode of travel](https://github.com/wx-labs/concept/blob/master/resources.md#the-future-of-travel) is emerging, with different objectives and expectations.
+[A new mode of travel](https://github.com/wx-labs/concept/blob/master/resources.md#the-future-of-travel) is emerging, with different objectives and expectations.  This presents new design opportunities.
 
-This presents new design opportunities.  With this in mind, we're embarking on a new venture:
 
 ![wx labs](images/wx-labs.png)
 
